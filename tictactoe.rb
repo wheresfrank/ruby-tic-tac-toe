@@ -23,9 +23,9 @@ class MakeBoard
   def initialize
     $board = "
              #{$board_positions[:"1"]} | #{$board_positions[:"2"]} | #{$board_positions[:"3"]}
-             ---------
+             --+---+--
              #{$board_positions[:"4"]} | #{$board_positions[:"5"]} | #{$board_positions[:"6"]}
-             ---------
+             --+---+--
              #{$board_positions[:"7"]} | #{$board_positions[:"8"]} | #{$board_positions[:"9"]}
              "
     puts $board
