@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 puts "Let's get ready for some intense one-on-one tic-tac-toe action!!!"
 puts 'Player one! Enter your name:'
 $player_one = gets.chomp
