@@ -6,4 +6,4 @@ CL Tic-Tac-Toe game between to human players
 
 It's easy! Type when prompted and don't lose the game.
 
-This was created for an exercise in the (Odin Project)[https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming/lessons/tic-tac-toe]
+This was created for an exercise in the [Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming/lessons/tic-tac-toe)
